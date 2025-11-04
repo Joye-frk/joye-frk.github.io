@@ -12,7 +12,7 @@
 
 ## 使用方法
 
-1. 访问 [调色助手页面](https://你的用户名.github.io/仓库名称)
+1. 访问 [调色助手页面](https://joye-frk.github.io/)
 2. 在"调色器"标签页输入RGB值，或
 3. 在"颜色搜索"标签页搜索颜色名称
 4. 查看调色比例和指导说明
@@ -27,7 +27,7 @@
 
 ```bash
 # 克隆仓库
-git clone https://github.com/你的用户名/仓库名称.git
+git clone https://joye-frk.github.io/.git
 
 # 直接在浏览器中打开 index.html
 ```
